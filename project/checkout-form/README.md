@@ -1,4 +1,4 @@
-# countdown
+# checkout-form
 
 ## Project setup
 ```
