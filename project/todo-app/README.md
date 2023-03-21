@@ -1,24 +1,2 @@
-# todo-app
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<h2>TODO APP</h2>
+<p dir="auto"><a href="https://khuongnc.github.io/todo-app_Vue/" rel="nofollow">See it Live</a></p>
